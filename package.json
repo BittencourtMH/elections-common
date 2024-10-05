@@ -1,0 +1,24 @@
+{
+  "name": "@bittencourt/elections-common",
+  "version": "1.0.0",
+  "description": "Code shared between front-end and back-end projects",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BittencourtMH/elections-common.git"
+  },
+  "keywords": [
+    "brazil",
+    "elections",
+    "tse"
+  ],
+  "author": "Marcelo Henrique Bittencourt <marcelohbittencourt@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BittencourtMH/elections-common/issues"
+  },
+  "homepage": "https://github.com/BittencourtMH/elections-common#readme"
+}

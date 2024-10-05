@@ -1,0 +1,21 @@
+export type EA20Stations = {
+  ts: string;
+  st: string;
+  pst: string;
+  pstn: string;
+  snt: string;
+  psnt: string;
+  psntn: string;
+  si: string;
+  psi: string;
+  psin: string;
+  sni: string;
+  psni: string;
+  psnin: string;
+  sa: string;
+  psa: string;
+  psan: string;
+  sna: string;
+  psna: string;
+  psnan: string;
+};

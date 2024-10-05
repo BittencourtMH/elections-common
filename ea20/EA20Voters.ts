@@ -1,0 +1,27 @@
+export type EA20Voters = {
+  te: string;
+  est: string;
+  pest: string;
+  pestn: string;
+  esnt: string;
+  pesnt: string;
+  pesntn: string;
+  esi: string;
+  pesi: string;
+  pesin: string;
+  esni: string;
+  pesni: string;
+  pesnin: string;
+  esa: string;
+  pesa: string;
+  pesan: string;
+  esna: string;
+  pesna: string;
+  pesnan: string;
+  c: string;
+  pc: string;
+  pcn: string;
+  a: string;
+  pa: string;
+  pan: string;
+};
